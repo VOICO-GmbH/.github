@@ -16,6 +16,8 @@ Welcome to the main documentation hub for **VOICO GmbH**.
 
 - [Backend Developer Guide](https://github.com/voico-gmbh/voico-backend/blob/master/DEVELOPER_GUIDE.md)
 
+---
+
 ## ⚙️ CI/CD
 
 - [CI/CD Guide](https://github.com/voico-gmbh/.github/blob/main/docs/CI_CD.md)
