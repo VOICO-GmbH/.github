@@ -24,4 +24,10 @@ Welcome to the main documentation hub for **VOICO GmbH**.
 
 ---
 
+## 📚 Migration to OTC from Railway
+
+- [Migration Guide](https://github.com/voico-gmbh/.github/blob/main/docs/MIGRATION.md)
+
+---
+
 For general info about all projects, visit the [organization page](https://github.com/voico-gmbh).
