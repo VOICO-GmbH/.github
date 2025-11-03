@@ -1,7 +1,7 @@
 # ⚙️ CI/CD Pipeline
 
 This document describes the CI/CD pipeline configuration for **VOICO GmbH**, defined in  
-`.github/workflows/main.yml`.
+`.github/workflows/main.yml` for each repository.
 
 ---
 
