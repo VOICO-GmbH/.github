@@ -8,15 +8,15 @@ We are a team focused on creating reliable, scalable, and intelligent voice-driv
 
 ## 🧩 Projects
 
-| Repository | Description | Main Tech |
-| ----------- | ------------ | ---------- |
-| [**voico-backend**](https://github.com/voico-gmbh/voico-backend) | Core backend powering the entire platform. | FastAPI / Python |
-| [**voico-frontend**](https://github.com/voico-gmbh/voico-frontend) | Frontend web application for user interaction. | React / TypeScript |
-| [**elevenlabs-redirector**](https://github.com/voico-gmbh/elevenlabs-redirector) | Proxy management system for ElevenLabs voice services. | JavaScript |
-| [**voico-devops**](https://github.com/voico-gmbh/voico-devops) | DevOps infrastructure for deployments and automation. | Kubernetes |
+| Repository                                                                       | Description                                            | Main Tech          |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------ |
+| [**voico-backend**](https://github.com/voico-gmbh/voico-backend)                 | Core backend powering the entire platform.             | FastAPI / Python   |
+| [**voico-frontend**](https://github.com/voico-gmbh/voico-frontend)               | Frontend web application for user interaction.         | React / TypeScript |
+| [**elevenlabs-redirector**](https://github.com/voico-gmbh/elevenlabs-redirector) | Proxy management system for ElevenLabs voice services. | JavaScript         |
+| [**voico-devops**](https://github.com/voico-gmbh/voico-devops)                   | DevOps infrastructure for deployments and automation.  | Kubernetes         |
 
 ---
 
-📘 **Documentation:**  
+📘 **Documentation:**
 
-You can find the main technical documentation here → [**docs/MAIN.md**](https://github.com/voico-gmbh/.github/blob/main/docs/MAIN.md)
+You can find the main technical documentation here → [**docs/README.md**](https://github.com/voico-gmbh/.github/blob/main/docs/README.md)
