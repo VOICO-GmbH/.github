@@ -16,3 +16,6 @@ We are a team focused on creating reliable, scalable, and intelligent voice-driv
 | [**voico-devops**](https://github.com/voico-gmbh/voico-devops) | DevOps infrastructure for deployments and automation. | Kubernetes |
 
 ---
+
+📘 **Documentation:**  
+You can find the main technical documentation here → [**docs/MAIN.md**](https://github.com/voico-gmbh/.github/blob/main/docs/MAIN.md)
