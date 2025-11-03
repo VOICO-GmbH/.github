@@ -7,7 +7,7 @@ Welcome to the main documentation hub for **VOICO GmbH**.
 ## 🔗 Project Docs
 
 - [Backend Developer Guide](https://github.com/voico-gmbh/voico-backend/blob/master/DEVELOPER_GUIDE.md)
-- Frontend Documentation _(coming soon)_
+- [Frontend Documentation](https://github.com/voico-gmbh/voico-frontend/blob/master/README.md)
 - [DevOps Infrastructure](https://github.com/voico-gmbh/voico-devops/blob/main/README.md)
 
 ---
