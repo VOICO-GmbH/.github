@@ -12,7 +12,7 @@
 
 ## Migration
 
-- [ ] Prepare and test the migration script. Take note of the Load Balancer’s IP address and verify the Ingress configuration in Kubernetes.
+- [x] Prepare and test the migration script. Take note of the Load Balancer’s IP address and verify the Ingress configuration in Kubernetes.
 - [ ] Migrate the database to **OTC**.
 - [ ] Update the DNS records for both the backend and frontend to point to the **OTC Load Balancer** IP address.
 
