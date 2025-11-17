@@ -1,6 +1,6 @@
 ## Preparation
 
-- [ ] Change webhooks of old agents to a new one
+- [x] Change webhooks of old agents to a new one
 - [x] Check all webhooks are pointing to https://platform.voico.ai and https://api.voico.ai
 - [ ] Check SSL Certificate of DNS domains are setup for the redirection
 - [ ] Ensure all projects are updated to the latest deployed version.
