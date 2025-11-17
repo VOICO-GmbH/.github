@@ -4,7 +4,7 @@
 - [x] Check all webhooks are pointing to https://platform.voico.ai and https://api.voico.ai
 - [x] Check SSL Certificate of DNS domains are setup for the redirection
 - [x] Ensure all projects are updated to the latest deployed version.
-- [ ] Test the platform on Kubernetes.
+- [x] Test the platform on Kubernetes.
 - [ ] Prepare the production environment variables and deploy the secrets to Kubernetes.
 - [ ] Restart the services to apply the updated secrets inside the containers.
 
