@@ -1,6 +1,6 @@
 ## Preparation
 
-[] 1. Change webhooks of old agents to a new one
+- [] Change webhooks of old agents to a new one
 
 [ ] 2. Check all webhooks are pointing to https://platform.voico.ai and https://api.voico.ai
 
